@@ -1,0 +1,14 @@
+.vscode/
+
+# Ignore compiled object files
+*.o
+
+# Ignore executables
+*.exe
+*.out
+
+# Ignore generated files
+*.d
+
+# Ignore build directories
+/build/
